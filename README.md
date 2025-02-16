@@ -1,4 +1,5 @@
-🛡️ Steganography for Secure Communication
+#🛡️ Steganography for Secure Communication
+
 Steganography is a cybersecurity technique that hides secret messages within ordinary files like images, audio, or video, ensuring covert and secure communication. Unlike encryption, which makes data unreadable, steganography conceals the existence of the message itself, making it nearly impossible to detect.
 
 ✨ Key Features
