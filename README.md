@@ -1,23 +1,5 @@
-#🛡️ Steganography for Secure Communication
-
-Steganography is a cybersecurity technique that hides secret messages within ordinary files like images, audio, or video, ensuring covert and secure communication. Unlike encryption, which makes data unreadable, steganography conceals the existence of the message itself, making it nearly impossible to detect.
-
-✨ Key Features
-🔹 LSB Encoding – Hides data within image pixels invisibly
-🔹 Audio & Video Steganography – Embeds messages into multimedia files
-🔹 AI-Enhanced Steganography – Leverages deep learning for stronger concealment
-🔹 Multi-Layer Security – Combine steganography with encryption for added protection
-
-⚙️ How It Works
-🖼️ Choose a cover file – Image, audio, or video
-📥 Embed the secret message – Using steganographic techniques
-📤 Send the modified file – Securely and discreetly
-🔍 Extract the hidden message – With the decoding algorithm
-
-🔐 Use Cases
-✅ Secure communication – Protect sensitive information
-✅ Covert data storage – Hide messages in plain sight
-✅ Bypass censorship – Communicate without raising suspicion
-✅ Digital watermarking – Authenticate media ownership
-
-This project brings modern steganography techniques to the forefront of cybersecurity. 🚀 Feel free to explore, contribute, and enhance its functionality!
+#Steganography
+- Steganography is a cybersecurity technique used to protect sensitive messages by embedding them within other digital files, such as images, audio, or video, ensuring covert communication.
+- Unlike encryption, which draws attention to hidden data, steganography conceals the very existence of the message, making it an effective tool against cyber threats and surveillance.
+- This project explores various steganographic methods to enhance security and minimize detection risks. Integrating steganography with modern cryptographic techniques strengthens data confidentiality, integrity, and resilience against unauthorized access, making it a 
+  crucial asset in cybersecurity.
